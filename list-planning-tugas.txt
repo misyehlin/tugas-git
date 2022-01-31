@@ -1,4 +1,5 @@
 planning tugas
+-mandarin
 -matematika
   ^tugas halaman 231
 -pemograman lanjutan
