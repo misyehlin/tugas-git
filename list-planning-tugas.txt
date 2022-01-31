@@ -5,5 +5,9 @@ planning tugas
 -pemograman lanjutan
 -bahasa inggris
   ^tugas reading
- -penjaskes
+  ^halaman bab 3
+-penjaskes
   ^tugas video
+-bahasa indonesia
+  ^tugas membaca
+  ^tugas debat halaman 21
