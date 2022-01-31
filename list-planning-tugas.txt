@@ -1,9 +1,11 @@
 planning tugas
--bahasa mandarin
 -matematika
   ^tugas halaman 231
 -pemograman lanjutan
 -bahasa inggris
   ^tugas reading
+  ^ulangan bab 3
  -penjaskes
   ^tugas video
+-bahasa indonesia
+  ^tugas membaca hal. 21
