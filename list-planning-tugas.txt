@@ -6,3 +6,4 @@ planning tugas
 -bahasa inggris
   ^tugas reading
  -penjaskes
+  ^tugas video
